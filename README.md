@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Amazon EKS Cluster Provisioning using Terraform
 
 ## 📌 Project Overview
@@ -367,3 +368,6 @@ Destroy the infrastructure when it is no longer required.
 ---
 
 **Built using Terraform and AWS | Infrastructure as Code | Amazon EKS | Kubernetes**
+=======
+
+>>>>>>> c10af4fa113436abc4fd7967403590b50f5aa3fa
